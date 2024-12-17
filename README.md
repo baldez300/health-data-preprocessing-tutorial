@@ -1,7 +1,7 @@
 # Health Dataset Preprocessing and Visualization Tutorial
 
 ## Overview
-This repository contains a comprehensive tutorial on data preprocessing and visualization using Python, focusing on a custom Health dataset. The tutorial demonstrates essential data science techniques for cleaning, transforming, and exploring data using popular libraries like Pandas and Matplotlib.
+This repository contains a comprehensive tutorial on data preprocessing and visualization using `Python`, focusing on a custom `Health dataset`. The tutorial demonstrates essential data science techniques for cleaning, transforming, and exploring data using popular libraries like `Pandas` and `Matplotlib`.
 
 ## Key Features
 - Comprehensive data preprocessing workflow
@@ -54,12 +54,14 @@ The Health dataset includes the following variables:
 - Visualization methods to understand data distributions and relationships
 
 ## Getting Started
-1. Clone the repository
+1. Clone the repository:
+   ```
+   git clone https://github.com/baldez300/health-data-preprocessing-tutorial.git
 2. Install required dependencies:
    ```
    pip install pandas matplotlib numpy
    ```
-3. Run the Jupyter notebook or Python scripts
+3. Run the Jupyter notebook file.
 
 ## Disclaimer
 This is an educational resource demonstrating data preprocessing techniques. The dataset is synthetic and used for learning purposes.
